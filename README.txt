@@ -21,7 +21,7 @@ To get started, clone this repository and set up your Python environment.
 
 Clone the repository:
 
-git clone https://github.com/your-username/ERA5-Data-Processing.git
+git clone https://github.com/sayantanonfire/ERA5_data_extraction_and_post_processing.git
 cd ERA5-Data-Processing
 
 Create a virtual environment (recommended):
